@@ -38,7 +38,7 @@
         <input type="text" id="mail_dest" name="mail_dest"/>
     </label><br>
 
-    <label>Objet du mail:
+    <label>Objet :
         <input type="text" id="mail_object" name="mail_object"/>
     </label>
 
